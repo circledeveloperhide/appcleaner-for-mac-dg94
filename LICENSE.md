@@ -1,4 +1,4 @@
-
+AppCleaner for macOS automatic Module: malware-scanner & menu-bar-customization offers the most advanced AppCleaner for macOS module, with malware-scanner and
 
 
 
